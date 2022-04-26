@@ -1,1 +1,0 @@
-# power-bi-course-resources
