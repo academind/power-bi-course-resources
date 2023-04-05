@@ -1,0 +1,136 @@
+{
+    "sales": [
+        {
+            "region": "China",
+            "volume": "200",
+            "transactions": [
+                {
+                    "date": "05/17/2016",
+                    "volume": "50"
+                },
+                {
+                    "date": "02/02/2016",
+                    "volume": "20"
+                },
+                {
+                    "date": "04/30/2016",
+                    "volume": "100"
+                },
+                {
+                    "date": "07/05/2016",
+                    "volume": "30"
+                }
+            ]
+        },
+        {
+            "region": "India",
+            "volume": "120",
+            "transactions": [
+                {
+                    "date": "05/17/2016",
+                    "volume": "10"
+                },
+                {
+                    "date": "02/02/2016",
+                    "volume": "40"
+                },
+                {
+                    "date": "04/30/2016",
+                    "volume": "60"
+                },
+                {
+                    "date": "07/05/2016",
+                    "volume": "10"
+                }
+            ]
+        },
+        {
+            "region": "USA",
+            "volume": "280",
+            "transactions": [
+                {
+                    "date": "05/17/2016",
+                    "volume": "90"
+                },
+                {
+                    "date": "02/02/2016",
+                    "volume": "55"
+                },
+                {
+                    "date": "04/30/2016",
+                    "volume": "45"
+                },
+                {
+                    "date": "07/05/2016",
+                    "volume": "100"
+                }
+            ]
+        },
+        {
+            "region": "Japan",
+            "volume": "220",
+            "transactions": [
+                {
+                    "date": "05/17/2016",
+                    "volume": "80"
+                },
+                {
+                    "date": "02/02/2016",
+                    "volume": "10"
+                },
+                {
+                    "date": "04/30/2016",
+                    "volume": "10"
+                },
+                {
+                    "date": "07/05/2016",
+                    "volume": "120"
+                }
+            ]
+        },
+        {
+            "region": "Germany",
+            "volume": "180",
+            "transactions": [
+                {
+                    "date": "05/17/2016",
+                    "volume": "95"
+                },
+                {
+                    "date": "02/02/2016",
+                    "volume": "25"
+                },
+                {
+                    "date": "04/30/2016",
+                    "volume": "30"
+                },
+                {
+                    "date": "07/05/2016",
+                    "volume": "30"
+                }
+            ]
+        },
+        {
+            "region": "Australia",
+            "volume": "90",
+            "transactions": [
+                {
+                    "date": "05/17/2016",
+                    "volume": "25"
+                },
+                {
+                    "date": "02/02/2016",
+                    "volume": "25"
+                },
+                {
+                    "date": "04/30/2016",
+                    "volume": "25"
+                },
+                {
+                    "date": "07/05/2016",
+                    "volume": "15"
+                }
+            ]
+        }
+    ]
+}
